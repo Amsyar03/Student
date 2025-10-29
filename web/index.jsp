@@ -67,7 +67,7 @@
         }
         p {
             font-size: 1.1rem;
-            max-width: 350px;
+            max-width: 400px;
             margin: 0 auto;
             line-height: 1.4;
         }

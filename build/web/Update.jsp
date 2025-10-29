@@ -24,7 +24,7 @@
         box-shadow: 0 2px 6px rgba(255, 221, 0, 0.6);
     ">Home</a>
 </div>
-<h2>Update Student Record</h2>
+<h2>Update Student.</h2>
 
 <form action="Update.jsp" method="post">
     Select ID to update:
