@@ -79,6 +79,7 @@
     </header>
     <main>
         <h1>Welcome!</h1>
+        <h2>Amsyar is a really bad boy.</h2>
         <p>Manage your student records.</p>
         <nav>
             <a href="Insert.jsp" class="button">Insert </a>
