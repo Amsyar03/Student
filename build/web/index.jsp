@@ -81,9 +81,9 @@
         <h1>Welcome!</h1>
         <p>Manage your student records.</p>
         <nav>
-            <a href="Insert.jsp" class="button">Insert Student</a>
-            <a href="Update.jsp" class="button">Update Student</a>
-            <a href="Delete.jsp" class="button">Delete Student</a>
+            <a href="Insert.jsp" class="button">Insert </a>
+            <a href="Update.jsp" class="button">Update </a>
+            <a href="Delete.jsp" class="button">Delete </a>
             
         </nav>
     </main>
